@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Aditya Dolas<br><br>👨‍💻 All of my projects are available at adityadolas.netlify.app<br><br>📫 How to reach me adityadolas125@gmail.com OR adityadolas.dev@gmail.com<br><br>⚡ Fun fact I think i am Funny
+Hi 👋, I'm Aditya Dolas<br><br>👨‍💻 All of my projects are available at adityadolas-theta.vercel.app<br><br>📫 How to reach me adityadolas125@gmail.com OR adityadolas.dev@gmail.com<br><br>⚡ Fun fact I think i am Funny
 
 
 ## 🌐 Socials:
