@@ -8,7 +8,8 @@
 <p align="center">
   <a href="https://adityadolas-theta.vercel.app">Portfolio</a> ·
   <a href="mailto:adityadolas.dev@gmail.com">Email</a> ·
-  <a href="https://instagram.com/heyyyyadi">Instagram</a>
+  <a href="https://instagram.com/heyyyyadi">Instagram</a> .
+  <a href="https://linkedin.com/in/dolas-aditya/">LinkedIn</a>
 </p>
 
 <p align="center">
